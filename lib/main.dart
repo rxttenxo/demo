@@ -8,7 +8,7 @@ void main() {
 
 class HairStylist extends StatelessWidget {
   const HairStylist({Key? key}) : super(key: key);
-
+// япидарас
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
